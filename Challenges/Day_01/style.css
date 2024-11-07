@@ -1,10 +1,10 @@
 body{
-  background-color: #F398BE;
+  background-color: #b5cb65;
 }
 
 .box{
-  background-color: whitesmoke;
-  position: absolute;
+  background-color: rgb(151, 207, 30);
+  position:relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -13,8 +13,8 @@ body{
 }
 
 .search{
-  color: #9E314B;
-  background-color: #F398BE;
+  color: #377528;
+  background-color: #32f92f;
   width: 50px;
   height: 50px;
   border-radius: 50%;
